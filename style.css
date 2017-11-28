@@ -8,14 +8,22 @@ body {
 
 main {
   margin-top: 20px;
+    border-radius: 5px;
+    background-color: #e9ecef;
+    padding:10px;
+    text-align: center;
+
+
 }
 
+}
+}
 header {
   height: 100px;
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -49,4 +57,9 @@ h3#header {
   text-decoration: none;
   color: #868e96;
 }
+div class="jumbotron"{
+  border-radius: 5px;
+  background-color: #e9ecef;
+  text-align: center;
 
+}
